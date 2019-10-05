@@ -42,5 +42,5 @@ dependencies {
         exclude module: "spring-boot-starter-tomcat"
     }
     compile('org.springframework.boot:spring-boot-starter-jetty')
-    compile('com.jacobaseverson.player:player-api:0.0.1')
+    compile('com.jacobaseverson.player:player-api:0.0.2')
 }
